@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @adenjobs
-- 👀 I’m interested in PHP(Laravel,Lumen,Thinkphp),Vue
-- 🌱 I’m currently learning Laravel,Lumen & Swoole
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=adenjobs&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-- 📫 maker68@163.com
+### Hello 👋
 
-<!---
-adenjobs/adenjobs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> Keep calm and coding.
+
+🇨🇳 China Zhengzhou・🕹Web developer
