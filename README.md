@@ -2,6 +2,6 @@
 
 ### Hello 👋
 
-> Keep calm and coding.
+> Just coding.
 
 🇨🇳 China Zhengzhou・🕹Web developer
